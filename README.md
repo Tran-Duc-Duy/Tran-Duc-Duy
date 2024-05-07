@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋   
+![CodeWars Badge](https://www.codewars.com/users/mrdivs/badges/large?theme=light)
 <!--
 **Tran-Duc-Duy/Tran-Duc-Duy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
